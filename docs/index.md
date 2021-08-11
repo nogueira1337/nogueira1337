@@ -1,4 +1,4 @@
-## Welcome to infyclun
+## Welcome to infyclub
 
 You can use the [editor on GitHub](https://github.com/nogueira1337/nogueira1337/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
